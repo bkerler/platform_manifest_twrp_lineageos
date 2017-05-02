@@ -585,10 +585,11 @@
   <project path="vendor/cmsdk" name="CyanogenMod/cm_platform_sdk" />
 
   <project path="bootable/recovery-twrp" name="omnirom/android_bootable_recovery" remote="github" revision="android-5.1" groups="pdk-cw-fs"/>
-  <project path="device/oneplus/bacon" name="TeamWin/android_device_oneplus_bacon" remote="github" groups="pdk" revision="cm-12.0"/>
+  <project path="device/oneplus/bacon" name="TeamWin/android_device_oneplus_bacon" remote="github" groups="pdk" revision="cm-13.0"/>
   <project path="device/oppo/common" name="LineageOS/android_device_oppo_common" remote="github" groups="pdk" />
   <project path="kernel/oneplus/msm8974" name="LineageOS/android_kernel_oneplus_msm8974" remote="github" groups="pdk" />
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" groups="pdk" revision="1286ac9d62dc91dcf5e1e67681ed755c9cc0c725"/>
   <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" groups="pdk"/>
   <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" remote="github" groups="pdk"/>
+  <project path="device/oppo/msm8974-common" name="LineageOS/android_device_oppo_msm8974-common" remote="github" groups="pdk" />
 </manifest>
