@@ -530,4 +530,5 @@
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" groups="pdk" revision="1286ac9d62dc91dcf5e1e67681ed755c9cc0c725"/>
   <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" groups="pdk"/>
   <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" remote="github" groups="pdk"/>
+  <project path="external/busybox" name="LineageOS/android_external_busybox" />
 </manifest>
